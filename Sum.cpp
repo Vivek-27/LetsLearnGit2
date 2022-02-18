@@ -9,5 +9,6 @@ int main()
 
     sum = a + b;
     cout << sum <<endl;
+    cout << "hello" << endl;
     
 }
